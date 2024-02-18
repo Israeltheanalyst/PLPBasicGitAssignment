@@ -1,7 +1,7 @@
 ## GIT
-### Created a new repository on GitHub (let's call it "PLPBasicGitAssignment").
+### Created a new repository on GitHub ("PLPBasicGitAssignment").
 
-### Created a new folder on your local machine (e.g., "PLPBasicGitAssignment").
+### Created a new folder on your local machine ("PLPBasicGitAssignment").
 ### - Opened a terminal or command prompt and navigate to the created folder.(GIT BASH)
 ### Initialized a new Git repository in your local folder.
 
