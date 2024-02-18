@@ -12,6 +12,4 @@
 ###  Committed my Changes: git add hello.txt git commit -m "Add hello.txt with a greeting"
 
 ### Pushing to GitHub:- Push the committed changes to my GitHub repository.
-### git push --force origin main (I used force because there is no conflict.. I was not working with any team.. There is a better approach to this tho ) ⬇⬇⬇⬇
-git pull origin main
-git pull --rebase origin main
+### git branch -M main git push -u origin main
